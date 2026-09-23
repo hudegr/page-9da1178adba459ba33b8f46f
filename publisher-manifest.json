@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "50a1db60e55208d1e12123d2",
+  "owner": "hudegr",
+  "repo": "page-9da1178adba459ba33b8f46f",
+  "title": "云川",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9da1178adba459ba33b8f46f",
+      "a": "云川",
+      "b": "2027官方最新地址导航",
+      "entity": "云川",
+      "brand": "云川",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e150420cd1042c267d3be9055bad44aa8249bdf05dfd8cda714478a5d11d311c",
+      "content": {
+        "primary_entity": "云川",
+        "keyword1": "云川",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选云川客户端，Windows、macOS、iOS、Android 与路由器各有对应订阅方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先确认设备数量与流量需求，再对照套餐页面选择合适档位。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，云川提供基础版、旗舰版与团队版三档方案，按月或按年订阅，覆盖从个人轻量使用到多设备团队协作的加速需求。",
+          "AI_FEATURES_INTRO": "围绕套餐差异、设备规模与订阅周期整理要点，方便快速判断。",
+          "AI_FEATURES_TITLE": "云川加速器特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量供3台设备使用，旗舰版每月300GB支持5台设备，团队版每月1000GB可容纳20台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供IPLC专线游戏加速优化，团队版配备VIP专属高带宽节点与企业定制路由，不同档位面向不同场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用可按年订阅。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路分层选择",
+          "AI_FEATURE_TITLE_3": "周期灵活计费",
+          "AI_GUIDE_INTRO": "按需订阅、核对设备、导入客户端三步完成接入。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "云川加速器面向海外访问场景，提供基础版、旗舰版与团队版三档套餐，满足个人设备、家庭多端和企业团队的连接需求。",
+          "AI_HERO_SUBTITLE": "云川加速器，多设备畅连",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "设备数量明确匹配",
+          "AI_HIGHLIGHT_3": "月付年付灵活订阅",
+          "AI_PLANS_INTRO": "基础版每月100GB与3台设备，旗舰版每月300GB与5台设备，团队版每月1000GB与20台设备，按年付分别可享¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和流量消耗，在基础版、旗舰版与团队版之间选择合适档位，按月或按年订阅。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，核对手机、电脑或路由器是否在适配范围内。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档完成订阅导入与连接配置，按说明填写节点信息后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云川加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅管理入口，按客户端文档提供的步骤粘贴或扫码导入订阅信息，保存后刷新节点列表即可使用。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量时，需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付较长时间。基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用可选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏场景优化，可降低部分游戏中的延迟波动，同时旗舰版支持全节点原生流媒体解锁与7x24优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量并支持20台设备在线，适合小组或企业多人共享，还包含VIP专属高带宽节点与专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "llqslxrbb.cn",
+    "host": "llqslxrbb.cn"
+  },
+  "file_hashes": {
+    "index.html": "eab13f0c0c5463646b29d98ba60b4d333dea3ed09e41ed5a1ae6d6ca314766f4",
+    "sitemap.xml": "e68031551f640a563f482e0464ec794a9d3ef8603cca5f43c4e79e2660b5ba0e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "60c160edd17d3760ad073d349ed1d94d64573488316c94a11c4dc1ce6963eee1",
+    "robots.txt": "0f51b321ef5d5a159f2ced4b13d401c958e1f52251965c9bcba03700a87ad06f",
+    "eb94dce9c891cd329b064f6b6bbab636.txt": "d92d39b86016b386c427a913ec2030cc0bb88c3ca89d835deb432997828a5773"
+  },
+  "revision": "a544240629077488b4033f5dca042e224d608fc530f994401e80fec12db2fa46"
+}
